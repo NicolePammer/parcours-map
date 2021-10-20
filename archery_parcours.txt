@@ -1,0 +1,6 @@
+,parcour_name,parcour_location,website,parcour_level,lat,lon
+0,UBSC-Flachgau,Henndorf,https://www.oebsv.com/ubsc-flachgau/3-startseite,3,47.89637608032687,13.169352542731607
+1,Bogensportverein Salzburg,Koppl,http://www.bsv-salzburg.com/unser-parcours/index.php,0,47.81856429602466,13.143685671565361
+2,Bogensport Schicklberg,Kremsmünster,https://www.bogensport-schicklberg.at/joomla/,1,48.07931283839197,14.163101356228886
+3,3D Bogenparcour - 1.KBSV Pörtschach,Pörtschach am Wörthersee,https://goo.gl/maps/seUEt5tQvEDaxvfQ9,2,46.639113874132505,14.131519729205223
+4,Bogensport Liebenfels,Liebenfels,https://g.page/bogensport-liebenfels?share,2,46.74879645833797, 14.265090604074796
